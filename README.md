@@ -1,10 +1,29 @@
-# Code Refactor Starter Code
+# Horiseon Code Refactor
 
-## Table of Contents (Optional)
+## Description
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+This is a website that was provided to us in our bootcamp where we were instructed to refactor the code. This include consolidating, and creating alt tags. Using HTML, and CSS.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+![](./Develop/assets/images/127.0.0.1_3000_Develop_index.html.png)
+
+
+
+## Installation
+
+N/A
+
+## Usage
+
+This is used to show that us bootcamp students can pick apart the code and refactor it. i.e. changes tags, consolidating, describing an image, you semantic elements
+
+
+## Credits
+
+N/A
+
+
+## License
+
+Please refer to the LICENSE in the repo.
+
+##
