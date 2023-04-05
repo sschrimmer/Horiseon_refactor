@@ -4,7 +4,9 @@
 
 This is a website that was provided to us in our bootcamp where we were instructed to refactor the code. This include consolidating, and creating alt tags. Using HTML, and CSS.
 
+[link to project](https://sschrimmer.github.io/Horiseon_refactor/)
 ![](./Develop/assets/images/127.0.0.1_3000_Develop_index.html.png)
+
 
 
 
